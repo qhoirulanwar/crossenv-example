@@ -1,0 +1,10 @@
+{
+    "environment":"development",
+    "port":3000,
+    "db": {
+        "user":"",
+        "host":"",
+        "port":"",
+        "database":""
+    }
+}

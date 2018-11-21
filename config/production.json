@@ -1,0 +1,10 @@
+{
+    "environment":"production",
+    "port":80,
+    "db": {
+        "user":"",
+        "host":"",
+        "port":"",
+        "database":""
+    }
+}
